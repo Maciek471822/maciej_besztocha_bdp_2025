@@ -1,0 +1,10 @@
+INSERT INTO ksiegowosc.pracownicy VALUES ( 1, 'Andrzej','Kot','Kraków ul.mysia 10',123456789 )
+INSERT INTO ksiegowosc.pracownicy VALUES ( 2, 'Tomasz','Wilk','Warszawa ul.owcza 2',234567891 );
+INSERT INTO ksiegowosc.pracownicy VALUES ( 3, 'Janusz','Lis','Gdańsk ul.kurza 25',345678912 );
+INSERT INTO ksiegowosc.pracownicy VALUES ( 4, 'Maciej','Krowa','Gdańsk ul.trawiasta 9',456789123 );
+INSERT INTO ksiegowosc.pracownicy VALUES ( 5, 'Andrzej','Stonka','Warszawa ul.ziemniaczana 91',567891234 );
+INSERT INTO ksiegowosc.pracownicy VALUES ( 6, 'Anna','Sokol','Lodz ul.golebia 91',156781234 );
+INSERT INTO ksiegowosc.pracownicy VALUES ( 7, 'Oksana','Pajak','Sopot ul.musza 24',516781234 );
+INSERT INTO ksiegowosc.pracownicy VALUES ( 8, 'John','Kon','Zakopane ul.owsia 11',216781234 );
+INSERT INTO ksiegowosc.pracownicy VALUES ( 9, 'Maciej','Trawa','Ełk ul.ziemna 18',916781231 );
+INSERT INTO ksiegowosc.pracownicy VALUES ( 10, 'Sebastian','Mol','Gdynia ul.maczna 20',891671231 );
